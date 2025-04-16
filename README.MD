@@ -8,6 +8,7 @@ Clone the repo and run specs with RSpec:
 ```bash
 bundle install
 rspec
+```
 
 ## Utilization Example
 
